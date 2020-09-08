@@ -26,6 +26,13 @@ main {
   width: 800px;
   margin: 0 auto;
 }
+.navgation {
+  display: flex;
+  justify-content: space-between;
+  align-items: cneter;
+  padding: 20px 60px;
+  cursor: pointer;
+}
 .container {
   display: flex;
   justify-content: space-between;
