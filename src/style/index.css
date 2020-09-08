@@ -56,3 +56,27 @@ main {
 .aside_title {
   font-style: italic;
 }
+
+.card_wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.article_card {
+  width: 360px;
+  margin-bottom: 20px;
+  border: 1px solid #f0f0f0;
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,.1);
+}
+
+img {
+  width: 100%;
+  height: 150px;
+}
+.card_descrption {
+  padding: 10px;
+}
+.show_details {
+  color: #0170fe;
+  padding: 10px 0px;
+  cursor: pointer;
+}
