@@ -18,3 +18,22 @@ ul {
   margin: 0;
   padding: 0;
 }
+header {
+  background-color: #000;
+  color: #fff;
+}
+main {
+  width: 800px;
+  margin: 0 auto;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+.aside_left {
+  width: 200px;
+}
+.aside_right {
+  width: 200px;
+}
